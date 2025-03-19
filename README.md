@@ -41,7 +41,7 @@ Actualmente, soy **estudiante en 42 Málaga**, donde sigo ampliando mis conocimi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamlemat&layout=compact&theme=radical)
 
 ### ⏳ **Tiempo de Programación (WakaTime)**
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vamlemat)
+### ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vamlemat)
 
 ---
 💡 _Siempre en busca de nuevos retos y proyectos interesantes. ¡Hablemos!_ 🚀
