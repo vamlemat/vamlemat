@@ -40,9 +40,6 @@ Actualmente, soy **estudiante en 42 Málaga**, donde sigo ampliando mis conocimi
 ### 🏆 <span style="color: #008000;">Logros en GitHub</span>
 ![Trophy](https://github-profile-trophy.vercel.app/?username=vamlemat&theme=onedark)
 
-### ⏳ <span style="color: #008000;">Tiempo de Programación (WakaTime)</span>
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vamlemat)
-
 ---
 💡 _Siempre en busca de nuevos retos y proyectos interesantes. ¡Hablemos!_ 🚀
 
