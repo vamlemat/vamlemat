@@ -1,3 +1,31 @@
+# 👋 Hi, I'm Vamlemat
+
+### 🚀 Web Developer | WooCommerce & PrestaShop Specialist | Full Stack Programmer
+
+I'm passionate about web development, with expertise in **WordPress, WooCommerce, PrestaShop, Elementor, Crocoblock, and JetEngine**. I also specialize in **SEO optimization, digital marketing, and creating custom solutions for online stores**. Currently, I'm diving deeper into **React and C**, while expanding my knowledge in **blockchain technology and cryptocurrencies**.
+
+I'm currently a **student at 42 Málaga**, where I'm enhancing my programming and software development skills, while also working with **over 25 years of experience in a full-time job**.
+
+## 🔥 **Technologies & Tools I Use**
+
+### 🛠️ **Web Development**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### 🛒 **E-commerce & CMS**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![Crocoblock](https://img.shields.io/badge/Crocoblock-5A67D8?style=for-the-badge&logo=crocoblock&logoColor=white)
+
+---
+💡 _Always looking for new challenges and exciting projects. Let's connect!_ 🚀
+
+
 # 👋 ¡Hola, soy Vamlemat
 
 ### 🚀 Desarrollador Web | Especialista en WooCommerce y PrestaShop | Programador Full Stack
@@ -39,9 +67,6 @@ Actualmente, soy **estudiante en 42 Málaga**, donde sigo ampliando mis conocimi
 
 ### 📊 **Lenguajes Más Usados**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamlemat&layout=compact&theme=radical)
-
-### ⏳ **Tiempo de Programación (WakaTime)**
-### ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vamlemat)
 
 ---
 💡 _Siempre en busca de nuevos retos y proyectos interesantes. ¡Hablemos!_ 🚀
