@@ -1,4 +1,4 @@
-![Mi Banner](https://i.imgur.com/5ib1zhU.png)
+![Mi Banner]([https://i.imgur.com/5ib1zhU.png](https://github.com/vamlemat/vamlemat/blob/main/VAMLEMAT%20-%20LOGO%20(1920%20x%20800%20px)%20(1920%20x%20500%20px).jpg))
 
 # 👋 Hi, I'm Vamlemat
 
