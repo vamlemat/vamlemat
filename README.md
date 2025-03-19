@@ -1,4 +1,4 @@
-![Mi Banner](https://github.com/vamlemat/vamlemat/blob/main/VAMLEMAT%20-%20LOGO%20(1920%20x%20800%20px)%20(1920%20x%20500%20px).jpg)
+![Mi Banner](https://github.com/vamlemat/vamlemat/blob/main/imagen-logo.jpg)
 
 # 👋 Hi, I'm Vamlemat
 
