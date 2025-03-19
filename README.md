@@ -1,4 +1,4 @@
-![Mi Banner](https://github.com/vamlemat/vamlemat/blob/main/imagen-logo.jpg)
+![Mi Banner](https://github.com/vamlemat/vamlemat/blob/main/imagen-logo-invertido.png)
 
 # 👋 Hi, I'm Vamlemat
 
