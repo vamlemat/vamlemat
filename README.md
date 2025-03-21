@@ -42,8 +42,6 @@ Actualmente, soy **estudiante en 42 Málaga**, donde sigo ampliando mis conocimi
   </tr>
 </table>
 
-![Mis lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=vamlemat&show_icons=true&hide_border=true&count_private=true&theme=radical&token=${{ secrets.GH_PAT }})
-
 ---
 💡 _Siempre en busca de nuevos retos y proyectos interesantes. ¡Hablemos!_ 🚀
 
