@@ -32,13 +32,11 @@ Actualmente, soy **estudiante en 42 Málaga**, donde sigo ampliando mis conocimi
       <img src="https://github-readme-stats.vercel.app/api?username=vamlemat&show_icons=true&theme=radical" alt="GitHub Stats"/>
     </td>
     <td align="center" width="50%">
+      <h3>🏆 <span style="color: #008000;">Logros en GitHub</span></h3>
       <img src="https://github-profile-trophy.vercel.app/?username=vamlemat&theme=onedark" alt="Logros en GitHub"/>
     </td>
   </tr>
 </table>
-
-### 🏆 <span style="color: #008000;">Logros en GitHub</span>
-![Trophy](https://github-profile-trophy.vercel.app/?username=vamlemat&theme=onedark)
 
 ---
 💡 _Siempre en busca de nuevos retos y proyectos interesantes. ¡Hablemos!_ 🚀
