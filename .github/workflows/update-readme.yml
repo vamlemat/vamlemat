@@ -2,8 +2,8 @@ name: Actualizar README con Lenguajes
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Se ejecuta cada 24 horas
-  workflow_dispatch: {}  # Permite ejecución manual
+    - cron: '0 0 * * *' # Se ejecuta cada 24 horas
+  workflow_dispatch: {} # Permite ejecución manual
 
 jobs:
   update-readme:
@@ -14,16 +14,15 @@ jobs:
 
       - name: Generar imagen de lenguajes más usados
         run: |
-        curl -L -o languages.png "https://github-readme-stats.vercel.app/api/top-langs/?username=vamlemat&show_icons=true&hide_border=true&count_private=true&theme=radical&token=${{ secrets.GH_PAT }}"
-        file languages.png  # Esto imprimirá el tipo de archivo descargado para verificar
-
+          curl -L -o languages.png "https://github-readme-stats.vercel.app/api/top-langs/?username=vamlemat&show_icons=true&hide_border=true&count_private=true&theme=radical&token=${{ secrets.GH_PAT }}"
+          file languages.png  # Verifica que el archivo es una imagen válida
 
       - name: Commit & Push Changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "action@github.com"
-          git fetch origin main  # 🔹 Obtiene los últimos cambios remotos
-          git reset --soft origin/main  # 🔹 Sincroniza con el estado remoto sin perder cambios locales
+          git fetch origin main  # Obtiene los últimos cambios remotos
+          git reset --soft origin/main  # Sincroniza con el estado remoto sin perder cambios locales
           git add languages.png
           git commit -m "Actualización automática de lenguajes más usados" || echo "No hay cambios para hacer commit"
           git push origin HEAD:main --force
