@@ -13,9 +13,9 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generar imagen de lenguajes más usados
-      run: |
-        rm -f languages.svg  # Elimina el archivo anterior si existe
-        curl -o languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=vamlemat&show_icons=true&hide_border=true&count_private=true&theme=radical&token=${{ secrets.GH_PAT }}"
+        run: |
+          rm -f languages.svg  # Elimina el archivo anterior si existe
+          curl -o languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=vamlemat&show_icons=true&hide_border=true&count_private=true&theme=radical&token=${{ secrets.GH_PAT }}"
 
 
       - name: Commit & Push Changes
