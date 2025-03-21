@@ -36,7 +36,7 @@ Actualmente, soy **estudiante en 42 Málaga**, donde sigo ampliando mis conocimi
       <img src="https://github-readme-stats.vercel.app/api?username=vamlemat&show_icons=true&theme=radical" alt="GitHub Stats"/>
     </td>
     <td align="center" width="50%">
-      <h3>🏆 <span style="color: #008000;">Lenguajes más usados</span></h3>
+      <h3><span style="color: #008000;">Lenguajes más usados</span></h3>
       <img src="https://raw.githubusercontent.com/vamlemat/vamlemat/main/languages.svg" alt="Lenguajes en GitHub"/>
     </td>
   </tr>
