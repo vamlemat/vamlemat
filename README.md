@@ -2,7 +2,7 @@
 
 # <span style="color: #1E90FF;">👋 ¡Hola, soy Vamlemat!</span>
 
-### <span style="color: #008000;">🚀 Desarrollador Web | Especialista en WooCommerce y PrestaShop | Programador Full Stack</span>
+### <span style="color: #008000;">🚀 Administrativo / Contable | Desarrollador Web | Especialista en WooCommerce y PrestaShop | Programador Full Stack</span>
 
 Soy un apasionado del desarrollo web con experiencia en **WordPress, WooCommerce, PrestaShop, Elementor, Crocoblock y JetEngine**. También me especializo en **optimización SEO, marketing digital y creación de soluciones personalizadas para tiendas online**. Actualmente, estoy profundizando en **React y C**, además de seguir expandiendo mis conocimientos en **tecnología blockchain y criptomonedas**.
 
