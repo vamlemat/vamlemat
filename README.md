@@ -42,6 +42,9 @@ Actualmente, soy **estudiante en 42 Málaga**, donde sigo ampliando mis conocimi
   </tr>
 </table>
 
+![Lenguajes más usados](./languages.png)
+
+
 ---
 💡 _Siempre en busca de nuevos retos y proyectos interesantes. ¡Hablemos!_ 🚀
 
