@@ -32,7 +32,7 @@ Actualmente, soy **estudiante en 42 Málaga**, donde sigo ampliando mis conocimi
       <img src="https://github-readme-stats.vercel.app/api?username=vamlemat&show_icons=true&theme=radical" alt="GitHub Stats"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vamlemat" alt="Most Used Languages"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=vamlemat&theme=onedark" alt="Logros en GitHub"/>
     </td>
   </tr>
 </table>
