@@ -42,8 +42,7 @@ Actualmente, soy **estudiante en 42 Málaga**, donde sigo ampliando mis conocimi
   </tr>
 </table>
 
-<img src="languages.png" alt="Lenguajes más usados" width="500"/>
-
+![Lenguajes más usados](https://raw.githubusercontent.com/vamlemat/vamlemat/main/languages.svg)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=vamlemat&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
