@@ -47,7 +47,11 @@ Actualmente, soy **estudiante en 42 Málaga**, donde sigo ampliando mis conocimi
 
 ---
 
-![Mi Banner](https://github.com/vamlemat/vamlemat/blob/main/imagen-logo-invertido.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vamlemat/vamlemat/blob/main/imagen-logo-invertido.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vamlemat/vamlemat/blob/main/imagen-logo.jpg">
+  <img src="https://raw.githubusercontent.com/vamlemat/vamlemat/main/banner-light.jpg" alt="Mi Banner">
+</picture>
 
 # <span style="color: #1E90FF;">👋 Hi, I'm Vamlemat</span>
 
