@@ -14,7 +14,9 @@ jobs:
 
       - name: Generar imagen de lenguajes más usados
         run: |
-          curl -o languages.png "https://github-readme-stats.vercel.app/api/top-langs/?username=vamlemat&show_icons=true&hide_border=true&count_private=true&theme=radical&token=${{ secrets.GH_PAT }}"
+        curl -L -o languages.png "https://github-readme-stats.vercel.app/api/top-langs/?username=vamlemat&show_icons=true&hide_border=true&count_private=true&theme=radical&token=${{ secrets.GH_PAT }}"
+        file languages.png  # Esto imprimirá el tipo de archivo descargado para verificar
+
 
       - name: Commit & Push Changes
         run: |
